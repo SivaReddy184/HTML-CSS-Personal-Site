@@ -1,0 +1,35 @@
+/***********************TAG SELECTORS***********************************/
+img {
+    height:200px;
+    }
+  body{
+    background-color:#DAEAF1;
+    }
+  hr {
+      border-style:none;
+      border-top-style : dotted;
+      border-color:lightgreen;
+      border-width:5px;
+      width:5%;
+    }
+  h2 {
+    color: rgb(7, 95, 95);
+  }
+  
+    h1:hover {
+      color: #18978F;
+      font-family:verdana;
+    }
+  
+    h3 {
+      color: green;
+    }
+  
+  /********************ID SELECTORS***************************************** ID can only use one time in a page*/*/
+  #heading {color:#66BFBF;}
+  
+  /*******************CLASS SELECTORS**************************************Class can use as many times in a page
+   we can use many classes in single html tag ex: <h3 class="class1 class2 class3 class4 ......">heading 3</h3>*/
+  .heading2 {color:#66BFBF;}
+  
+  
